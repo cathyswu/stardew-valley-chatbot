@@ -1,7 +1,5 @@
 # 🌱 Stardew Companion
 
-*Your personal AI companion for stress-free farming*
-
 ## 🎮 What is this?
 
 Sometimes when life gets overwhelming, I find myself opening Stardew Valley. Just a couple of hours tending to crops, fishing by the dock, or raising animals, and somehow my worries feel a little smaller.
